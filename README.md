@@ -1,2 +1,21 @@
-# CodeAlpha_Phishing_Awareness_Attacks
-This Phishing Awareness Presentation was created as part of the Code Alpha Cybersecurity Program. It highlights the dangers of phishing attacks, common tactics used by attackers, and how to stay safe online. Designed to educate and protect users by promoting smart cybersecurity practices.
+# Phishing Awareness Presentation 🎯
+
+This is a cybersecurity awareness presentation focused on identifying and preventing phishing attacks. The goal is to educate users about common phishing techniques and how to stay safe online.
+
+## 🚀 Presented For:
+Code Alpha – Cybersecurity Internship Program
+
+## 📂 Includes:
+- Slide Deck (PDF/PowerPoint)
+- Sample Phishing Scenarios
+- Awareness Tips
+
+## 💡 Key Topics:
+- What is Phishing?
+- How Phishing Attacks Work
+- Social Engineering Tactics
+- Prevention Techniques
+
+---
+
+Stay alert. Stay secure. 🔐
